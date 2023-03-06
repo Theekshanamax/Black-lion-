@@ -25,14 +25,14 @@ global.premium = ['94713378049'] //ur premium number
 global.botname = 'Black lion' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HQtGcY0j1HRIPkc85GIE0A" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/HQtGcY0j1HRIPkc85GIE0A" //ur website to be displayed
-global.botscript = 'https://github.com/yureshofficial/X-Troid' //script link
-global.themeemoji = "🚀" //ur theme emoji
-global.packname = "X TROID" //ur sticker watermark packname
-global.author = "X TROID" //ur sticker watermark author
-global.wm = "X TROID MULTE DEVICE WHATSAPP BOT" //ur watermark
+global.botscript = 'https://github.com/Theekshanamax/Black-lion-' //script link
+global.themeemoji = "🦁" //ur theme emoji
+global.packname = "Black lion" //ur sticker watermark packname
+global.author = "Black lion" //ur sticker watermark author
+global.wm = "Black lion MULTE DEVICE WHATSAPP BOT" //ur watermark
 
-//Edit Text bot📂🚀__________________________________________________________________
-global.alive = "✏🏵️🎗️🎫🎟️🎪🎭🤹‍♂️🎨🎬🎤🎧🎼🎹🥁🪘🎯🎲♟️🎻🪕🎸🪗🎺🎷🎳🎮🎰🧩🔓🔒🔐🔏🔎🔍✏️📝🖍️🖌️✒️🖋️🖊️✂️📍📌🧮📏📐🖇️📎🔗🧷🔖📖📚📙📘📒📔📓📰🗞️🗂️📂📁📋🗄️🗳️🗃️📊📈📉🗒️🗑️📇🧾📑📜📯📮📭📫📪🪧📦💌📧🎎🧧🎁🛍️🎎🛎️🛠️🧲⛓️💰⚒️🔨⚙️🧰⚖️🪪💳🧯📡🔋🪫⏱️🎞️☎️⚖️💎🧸🎉🎎🖼️⚽🏀🏈" //ur Alive mg type
+//Edit Text bot📂🦁__________________________________________________________________
+global.alive = "🦁 Hi I'm online now📡" //ur Alive mg type
 
 // Other
 global.sessionName = 'session'
